@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 	"net/http"
-	"github.com/gorilla/mux"
-	
-	"github.com/akhil/go-bookstore/pkg/routes"
 
+	"github.com/dp3why/go-book/pkg/routes"
+
+	"github.com/gorilla/mux"
 )
 
 func main(){

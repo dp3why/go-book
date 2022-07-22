@@ -1,4 +1,4 @@
-module github.com/akhil/go-bookstore
+module github.com/dp3why/go-book
 
 go 1.18
 
